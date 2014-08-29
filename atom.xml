@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Techxter's Laboratory]]></title>
+  <link href="http://khatribharat.github.io/atom.xml" rel="self"/>
+  <link href="http://khatribharat.github.io/"/>
+  <updated>2014-08-29T16:24:51+05:30</updated>
+  <id>http://khatribharat.github.io/</id>
+  <author>
+    <name><![CDATA[Bharat Khatri]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bitcoin 2.0: The advent of distributed applications]]></title>
+    <link href="http://khatribharat.github.io/blog/2014/08/29/bitcoin-2-dot-0-the-advent-of-distributed-applications/"/>
+    <updated>2014-08-29T14:12:43+05:30</updated>
+    <id>http://khatribharat.github.io/blog/2014/08/29/bitcoin-2-dot-0-the-advent-of-distributed-applications</id>
+    <content type="html"><![CDATA[<p>Bitcoin, and more importantly the underlying technology, Blockchain, is set to change how web applicatoins would be designed in the future.</p>
+]]></content>
+  </entry>
+  
+</feed>
